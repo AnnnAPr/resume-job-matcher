@@ -16,10 +16,10 @@ A simple AI project that helps match resumes to job descriptions using a free, o
 
 ## Setup (Local)
 
-git clone https://github.com/yourusername/resume-job-matcher.git
-cd resume-job-matcher
-pip install -r requirements.txt
-streamlit run app/app.py
+- git clone https://github.com/yourusername/resume-job-matcher.git
+- cd resume-job-matcher
+- pip install -r requirements.txt
+- streamlit run app/app.py
 
 ## Run Locally  
 
