@@ -24,7 +24,6 @@ streamlit run app/app.py
 ## 🚀 Run Locally  
 
 1. Create a virtual environment
-  ```
   Windows: python -m venv .venv
   Mac: python3 -m venv .venv
 
