@@ -24,16 +24,16 @@ A simple AI project that helps match resumes to job descriptions using a free, o
 ## Run Locally  
 
 1. Create a virtual environment
-  Windows: python -m venv .venv
-  Mac: python3 -m venv .venv
+    - Windows: python -m venv .venv
+    - Mac: python3 -m venv .venv
 
 2. Activate the virtual environment
-  - Windows: `.venv\Scripts\activate`
-  - Mac: source `.venv/bin/activate`
+    - Windows: `.venv\Scripts\activate`
+    - Mac: source `.venv/bin/activate`
 
 3. Install dependencies
-  - Minimal (recommended): `pip install -r requirements.txt`
-  - Full freeze (exact versions): `pip install -r requirements-full.txt`
+    - Minimal (recommended): `pip install -r requirements.txt`
+    - Full freeze (exact versions): `pip install -r requirements-full.txt`
 
 4. Run the app `streamlit run app/app.py`
 
