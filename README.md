@@ -15,13 +15,13 @@ A simple AI project that helps match resumes to job descriptions using a free, o
 - Deployed on Hugging Face Spaces (free)
 
 ## Setup (Local)
-```bash
+
 git clone https://github.com/yourusername/resume-job-matcher.git
 cd resume-job-matcher
 pip install -r requirements.txt
 streamlit run app/app.py
 
-## 🚀 Run Locally  
+## Run Locally  
 
 1. Create a virtual environment
   Windows: python -m venv .venv
