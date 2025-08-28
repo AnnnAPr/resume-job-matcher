@@ -3,10 +3,11 @@
 A simple AI project that helps match resumes to job descriptions using a free, open-source LLM.
 
 ## Features
-- Upload a resume (text)
-- Paste a job description
-- Get a match score + feedback
-- Runs free on Hugging Face Spaces
+- Upload resume (**TXT supported**, PDF placeholder for now)  
+- Paste job description  
+- Preview resume & job description side-by-side  
+- **AI-powered similarity scoring** using `sentence-transformers`  
+- Match percentage + tailored suggestions (Strong / Partial / Weak) 
 
 ## Tech Stack
 - Python
