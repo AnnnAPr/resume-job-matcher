@@ -1,3 +1,14 @@
+---
+title: Resume Job Matcher
+emoji: 📄
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: "1.48.1"
+app_file: app/app.py
+pinned: false
+---
+
 # Resume Job Matcher
 
 A simple AI project that helps match resumes to job descriptions using a free, open-source LLM.
